@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"edu.nwmissouri.spring24.cs44542.sec01","l":"Book"},{"p":"edu.nwmissouri.spring24.cs44542.sec01","l":"BookDriver"}]

@@ -1,0 +1,48 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'C:/Users/S572178/Desktop/S572178Assignment02/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/S572178/Desktop/S572178Assignment02/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'S572178Assignment02 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/S572178/Desktop/S572178Assignment02/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'S572178Assignment02 1.0-SNAPSHOT API'
+edu.nwmissouri.spring24.cs44542.sec01
+C:\Users\S572178\Desktop\S572178Assignment02\src\main\java = 1706141433473
+C:\Users\S572178\Desktop\S572178Assignment02\target\site\apidocs\allclasses-index.html = 1706153735386
+C:\Users\S572178\Desktop\S572178Assignment02\target\site\apidocs\allclasses.html = 1706153735466
+C:\Users\S572178\Desktop\S572178Assignment02\target\site\apidocs\allpackages-index.html = 1706153735386
+C:\Users\S572178\Desktop\S572178Assignment02\target\site\apidocs\constant-values.html = 1706153735180
+C:\Users\S572178\Desktop\S572178Assignment02\target\site\apidocs\deprecated-list.html = 1706153735434
+C:\Users\S572178\Desktop\S572178Assignment02\target\site\apidocs\element-list = 1706153735148
+C:\Users\S572178\Desktop\S572178Assignment02\target\site\apidocs\help-doc.html = 1706153735497
+C:\Users\S572178\Desktop\S572178Assignment02\target\site\apidocs\index-all.html = 1706153735354
+C:\Users\S572178\Desktop\S572178Assignment02\target\site\apidocs\index.html = 1706153735482
+C:\Users\S572178\Desktop\S572178Assignment02\target\site\apidocs\jquery-ui.overrides.css = 1706153735657
+C:\Users\S572178\Desktop\S572178Assignment02\target\site\apidocs\member-search-index.js = 1706153735338
+C:\Users\S572178\Desktop\S572178Assignment02\target\site\apidocs\member-search-index.zip = 1706153735338
+C:\Users\S572178\Desktop\S572178Assignment02\target\site\apidocs\overview-tree.html = 1706153735211
+C:\Users\S572178\Desktop\S572178Assignment02\target\site\apidocs\package-search-index.js = 1706153735227
+C:\Users\S572178\Desktop\S572178Assignment02\target\site\apidocs\package-search-index.zip = 1706153735322
+C:\Users\S572178\Desktop\S572178Assignment02\target\site\apidocs\script.js = 1706153735497
+C:\Users\S572178\Desktop\S572178Assignment02\target\site\apidocs\search.js = 1706153735513
+C:\Users\S572178\Desktop\S572178Assignment02\target\site\apidocs\stylesheet.css = 1706153735497
+C:\Users\S572178\Desktop\S572178Assignment02\target\site\apidocs\type-search-index.js = 1706153735322
+C:\Users\S572178\Desktop\S572178Assignment02\target\site\apidocs\type-search-index.zip = 1706153735338
